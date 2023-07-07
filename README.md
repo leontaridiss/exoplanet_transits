@@ -19,6 +19,6 @@ first column showing the time in days (Barycentred Julian Date) and the second c
 the calibrated photoelectron count rates for the star (as electrons/sec). The light curves each cover about a 
 month and the individual data points correspond to 2-minute intervals. There are gaps of a few days in the middle of the observations due to observing constraints on the satellite. 
 
-We are trying to identyfy the transits and apply a fit using simple model as in the image below. 
+We are trying to identify the transits and apply a fit using simple model as in the image below. 
 
 ![Alt text](<Media/Screenshot 2023-07-07 142313.png>)
